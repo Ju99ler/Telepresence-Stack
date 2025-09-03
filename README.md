@@ -15,3 +15,7 @@ Our mission is to decentralize labor through robotics. Instead of replacing work
 - Training loop for autonomous transition
 
 Licensed under Apache 2.0 – use it, build on it, scale it.
+
+## Daily Logs
+- [Day 2](docs/Day2.md)
+- [Day 3](docs/Day3.md)
