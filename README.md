@@ -1,12 +1,13 @@
-# Telepresence-Stack
-Robots should be built to share control with humans. This repo is the foundation for machines that can be operated from anywhere, by anyone, for any task.
+MRX Robotics
 
-# Telepresence Stack
+The backbone of remote work.
 
-The Telepresence Stack is an open-source robotics control framework designed to enable human operators to remotely control robots across diverse industries — including food service, construction, logistics, and more.
+MRX Robotics is building the universal backbone for telepresence and autonomy. Our robots are designed to cross industries, borders, and time zones — enabling operators anywhere to take action everywhere.
 
-## Vision
-Our mission is to decentralize labor through robotics. Instead of replacing workers, we move them — enabling one skilled operator to control robots anywhere in the world.
+We start with low-latency telepresence systems powered by ROS 2, giving humans precise control over robots in kitchens, factories, and logistics hubs. Over time, our stack evolves toward semi-autonomous and fully autonomous operation, creating the infrastructure for Robotics-as-a-Service (RaaS).
+
+Vision
+Our mission is to decentralize labor through robotics. 
 
 ## Core Components
 - Real-time video + control interface
