@@ -1,0 +1,24 @@
+running develop
+Removing /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_bringup/lib/python3.10/site-packages/tp-bringup.egg-link (link to .)
+running egg_info
+writing ../build/tp_bringup/tp_bringup.egg-info/PKG-INFO
+writing dependency_links to ../build/tp_bringup/tp_bringup.egg-info/dependency_links.txt
+writing entry points to ../build/tp_bringup/tp_bringup.egg-info/entry_points.txt
+writing requirements to ../build/tp_bringup/tp_bringup.egg-info/requires.txt
+writing top-level names to ../build/tp_bringup/tp_bringup.egg-info/top_level.txt
+reading manifest file '../build/tp_bringup/tp_bringup.egg-info/SOURCES.txt'
+writing manifest file '../build/tp_bringup/tp_bringup.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_bringup/build
+creating /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_bringup/build/lib
+creating /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_bringup/build/lib/tp_bringup
+copying tp_bringup/__init__.py -> /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_bringup/build/lib/tp_bringup
+running install
+running install_lib
+creating /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_bringup/lib/python3.10/site-packages/tp_bringup
+copying /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_bringup/build/lib/tp_bringup/__init__.py -> /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_bringup/lib/python3.10/site-packages/tp_bringup
+byte-compiling /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_bringup/lib/python3.10/site-packages/tp_bringup/__init__.py to __init__.cpython-310.pyc
+running install_data
+copying resource/tp_bringup -> /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_bringup/share/ament_index/resource_index/packages
+copying package.xml -> /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_bringup/share/tp_bringup

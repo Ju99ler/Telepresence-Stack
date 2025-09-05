@@ -1,0 +1,4 @@
+source;share/tp_cmd_sub/local_setup.bash
+source;share/tp_cmd_sub/local_setup.dsv
+source;share/tp_cmd_sub/local_setup.sh
+source;share/tp_cmd_sub/local_setup.zsh

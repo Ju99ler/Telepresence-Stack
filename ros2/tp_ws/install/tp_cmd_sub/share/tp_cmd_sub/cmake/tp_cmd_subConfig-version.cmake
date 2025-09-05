@@ -1,0 +1,1 @@
+/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_cmd_sub/ament_cmake_core/tp_cmd_subConfig-version.cmake

@@ -1,0 +1,10 @@
+/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_cmd_sub/CMakeFiles/uninstall.dir
+/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_cmd_sub/CMakeFiles/tp_cmd_sub_uninstall.dir
+/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_cmd_sub/CMakeFiles/cmd_sub.dir
+/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_cmd_sub/CMakeFiles/test.dir
+/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_cmd_sub/CMakeFiles/edit_cache.dir
+/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_cmd_sub/CMakeFiles/rebuild_cache.dir
+/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_cmd_sub/CMakeFiles/list_install_components.dir
+/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_cmd_sub/CMakeFiles/install.dir
+/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_cmd_sub/CMakeFiles/install/local.dir
+/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_cmd_sub/CMakeFiles/install/strip.dir

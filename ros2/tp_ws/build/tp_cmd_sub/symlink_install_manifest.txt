@@ -1,0 +1,16 @@
+/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_cmd_sub/lib/tp_cmd_sub/cmd_sub
+/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_cmd_sub/share/ament_index/resource_index/package_run_dependencies/tp_cmd_sub
+/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_cmd_sub/share/ament_index/resource_index/parent_prefix_path/tp_cmd_sub
+/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_cmd_sub/share/tp_cmd_sub/environment/ament_prefix_path.sh
+/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_cmd_sub/share/tp_cmd_sub/environment/ament_prefix_path.dsv
+/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_cmd_sub/share/tp_cmd_sub/environment/path.sh
+/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_cmd_sub/share/tp_cmd_sub/environment/path.dsv
+/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_cmd_sub/share/tp_cmd_sub/local_setup.bash
+/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_cmd_sub/share/tp_cmd_sub/local_setup.sh
+/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_cmd_sub/share/tp_cmd_sub/local_setup.zsh
+/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_cmd_sub/share/tp_cmd_sub/local_setup.dsv
+/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_cmd_sub/share/tp_cmd_sub/package.dsv
+/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_cmd_sub/share/ament_index/resource_index/packages/tp_cmd_sub
+/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_cmd_sub/share/tp_cmd_sub/cmake/tp_cmd_subConfig.cmake
+/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_cmd_sub/share/tp_cmd_sub/cmake/tp_cmd_subConfig-version.cmake
+/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_cmd_sub/share/tp_cmd_sub/package.xml

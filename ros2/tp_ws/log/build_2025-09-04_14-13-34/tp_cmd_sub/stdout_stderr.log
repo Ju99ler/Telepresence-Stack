@@ -1,0 +1,20 @@
+[35m[1mConsolidate compiler generated dependencies of target cmd_sub[0m
+[100%] Built target cmd_sub
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_cmd_sub/lib/tp_cmd_sub/cmd_sub
+-- Up-to-date symlink: /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_cmd_sub/share/ament_index/resource_index/package_run_dependencies/tp_cmd_sub
+-- Up-to-date symlink: /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_cmd_sub/share/ament_index/resource_index/parent_prefix_path/tp_cmd_sub
+-- Up-to-date symlink: /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_cmd_sub/share/tp_cmd_sub/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_cmd_sub/share/tp_cmd_sub/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_cmd_sub/share/tp_cmd_sub/environment/path.sh
+-- Up-to-date symlink: /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_cmd_sub/share/tp_cmd_sub/environment/path.dsv
+-- Up-to-date symlink: /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_cmd_sub/share/tp_cmd_sub/local_setup.bash
+-- Up-to-date symlink: /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_cmd_sub/share/tp_cmd_sub/local_setup.sh
+-- Up-to-date symlink: /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_cmd_sub/share/tp_cmd_sub/local_setup.zsh
+-- Up-to-date symlink: /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_cmd_sub/share/tp_cmd_sub/local_setup.dsv
+-- Symlinking: /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_cmd_sub/share/tp_cmd_sub/package.dsv
+-- Up-to-date symlink: /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_cmd_sub/share/ament_index/resource_index/packages/tp_cmd_sub
+-- Up-to-date symlink: /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_cmd_sub/share/tp_cmd_sub/cmake/tp_cmd_subConfig.cmake
+-- Up-to-date symlink: /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_cmd_sub/share/tp_cmd_sub/cmake/tp_cmd_subConfig-version.cmake
+-- Up-to-date symlink: /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_cmd_sub/share/tp_cmd_sub/package.xml

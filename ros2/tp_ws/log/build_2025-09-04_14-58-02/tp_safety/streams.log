@@ -1,0 +1,17 @@
+[1.139s] Invoking command in '/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_safety': PYTHONPATH=/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_safety/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_safety/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_safety/build --no-deps symlink_data
+[1.450s] running develop
+[1.638s] running egg_info
+[1.638s] writing tp_safety.egg-info/PKG-INFO
+[1.638s] writing dependency_links to tp_safety.egg-info/dependency_links.txt
+[1.638s] writing entry points to tp_safety.egg-info/entry_points.txt
+[1.639s] writing requirements to tp_safety.egg-info/requires.txt
+[1.639s] writing top-level names to tp_safety.egg-info/top_level.txt
+[1.641s] reading manifest file 'tp_safety.egg-info/SOURCES.txt'
+[1.642s] writing manifest file 'tp_safety.egg-info/SOURCES.txt'
+[1.644s] running build_ext
+[1.644s] Creating /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_safety/lib/python3.10/site-packages/tp-safety.egg-link (link to .)
+[1.645s] Installing estop_mux script to /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_safety/lib/tp_safety
+[1.645s] 
+[1.646s] Installed /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_safety
+[1.646s] running symlink_data
+[1.695s] Invoked command in '/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_safety' returned '0': PYTHONPATH=/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_safety/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_safety/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_safety/build --no-deps symlink_data

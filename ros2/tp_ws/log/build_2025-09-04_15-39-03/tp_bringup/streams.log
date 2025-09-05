@@ -1,0 +1,22 @@
+[0.759s] Invoking command in '/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_bringup': PYTHONPATH=/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_bringup/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_bringup/build
+[1.064s] running develop
+[1.250s] Removing /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_bringup/lib/python3.10/site-packages/tp-bringup.egg-link (link to .)
+[1.288s] Invoked command in '/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_bringup' returned '0': PYTHONPATH=/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_bringup/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_bringup/build
+[1.291s] Invoking command in '/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/tp_bringup': PYTHONPATH=/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_bringup/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/tp_bringup build --build-base /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_bringup/build install --record /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_bringup/install.log --single-version-externally-managed install_data --force
+[1.578s] running egg_info
+[1.578s] writing ../build/tp_bringup/tp_bringup.egg-info/PKG-INFO
+[1.579s] writing dependency_links to ../build/tp_bringup/tp_bringup.egg-info/dependency_links.txt
+[1.579s] writing entry points to ../build/tp_bringup/tp_bringup.egg-info/entry_points.txt
+[1.579s] writing requirements to ../build/tp_bringup/tp_bringup.egg-info/requires.txt
+[1.579s] writing top-level names to ../build/tp_bringup/tp_bringup.egg-info/top_level.txt
+[1.581s] reading manifest file '../build/tp_bringup/tp_bringup.egg-info/SOURCES.txt'
+[1.582s] writing manifest file '../build/tp_bringup/tp_bringup.egg-info/SOURCES.txt'
+[1.582s] running build
+[1.582s] running build_py
+[1.583s] running install
+[1.584s] running install_lib
+[1.585s] running install_data
+[1.586s] copying resource/tp_bringup -> /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_bringup/share/ament_index/resource_index/packages
+[1.586s] copying package.xml -> /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_bringup/share/tp_bringup
+[1.586s] error: can't copy 'launch/minimal.launch.py': doesn't exist or not a regular file
+[1.612s] Invoked command in '/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/tp_bringup' returned '1': PYTHONPATH=/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_bringup/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/tp_bringup build --build-base /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_bringup/build install --record /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_bringup/install.log --single-version-externally-managed install_data --force

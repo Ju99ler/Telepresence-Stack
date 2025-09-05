@@ -1,0 +1,17 @@
+running develop
+running egg_info
+writing tp_safety.egg-info/PKG-INFO
+writing dependency_links to tp_safety.egg-info/dependency_links.txt
+writing entry points to tp_safety.egg-info/entry_points.txt
+writing requirements to tp_safety.egg-info/requires.txt
+writing top-level names to tp_safety.egg-info/top_level.txt
+reading manifest file 'tp_safety.egg-info/SOURCES.txt'
+writing manifest file 'tp_safety.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_safety/lib/python3.10/site-packages/tp-safety.egg-link (link to .)
+Installing estop_mux script to /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_safety/lib/tp_safety
+
+Installed /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_safety
+running symlink_data
+symbolically linking /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_safety/resource/tp_safety -> /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_safety/share/ament_index/resource_index/packages
+symbolically linking /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_safety/package.xml -> /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_safety/share/tp_safety

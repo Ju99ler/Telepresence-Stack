@@ -1,0 +1,16 @@
+[1.156s] Invoking command in '/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_bringup': PYTHONPATH=/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_bringup/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_bringup/build --no-deps symlink_data
+[1.474s] running develop
+[1.666s] running egg_info
+[1.666s] writing tp_bringup.egg-info/PKG-INFO
+[1.667s] writing dependency_links to tp_bringup.egg-info/dependency_links.txt
+[1.667s] writing entry points to tp_bringup.egg-info/entry_points.txt
+[1.667s] writing requirements to tp_bringup.egg-info/requires.txt
+[1.667s] writing top-level names to tp_bringup.egg-info/top_level.txt
+[1.669s] reading manifest file 'tp_bringup.egg-info/SOURCES.txt'
+[1.670s] writing manifest file 'tp_bringup.egg-info/SOURCES.txt'
+[1.672s] running build_ext
+[1.672s] Creating /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_bringup/lib/python3.10/site-packages/tp-bringup.egg-link (link to .)
+[1.673s] 
+[1.673s] Installed /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_bringup
+[1.673s] running symlink_data
+[1.721s] Invoked command in '/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_bringup' returned '0': PYTHONPATH=/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_bringup/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_bringup/build --no-deps symlink_data

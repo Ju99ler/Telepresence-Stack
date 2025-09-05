@@ -1,0 +1,3 @@
+[console_scripts]
+estop_mux = tp_safety.estop_mux:main
+

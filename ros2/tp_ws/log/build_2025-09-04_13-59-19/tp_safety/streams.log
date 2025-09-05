@@ -1,0 +1,36 @@
+[0.771s] Invoking command in '/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_safety': PYTHONPATH=/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_safety/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_safety/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_safety/build
+[1.072s] running develop
+[1.258s] Removing /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_safety/lib/python3.10/site-packages/tp-safety.egg-link (link to .)
+[1.295s] Invoked command in '/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_safety' returned '0': PYTHONPATH=/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_safety/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_safety/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_safety/build
+[1.297s] Invoking command in '/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/tp_safety': PYTHONPATH=/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_safety/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_safety/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/tp_safety build --build-base /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_safety/build install --record /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_safety/install.log --single-version-externally-managed install_data --force
+[1.576s] running egg_info
+[1.576s] writing ../build/tp_safety/tp_safety.egg-info/PKG-INFO
+[1.577s] writing dependency_links to ../build/tp_safety/tp_safety.egg-info/dependency_links.txt
+[1.577s] writing entry points to ../build/tp_safety/tp_safety.egg-info/entry_points.txt
+[1.577s] writing requirements to ../build/tp_safety/tp_safety.egg-info/requires.txt
+[1.577s] writing top-level names to ../build/tp_safety/tp_safety.egg-info/top_level.txt
+[1.579s] reading manifest file '../build/tp_safety/tp_safety.egg-info/SOURCES.txt'
+[1.580s] writing manifest file '../build/tp_safety/tp_safety.egg-info/SOURCES.txt'
+[1.580s] running build
+[1.580s] running build_py
+[1.581s] creating /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_safety/build
+[1.581s] creating /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_safety/build/lib
+[1.581s] creating /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_safety/build/lib/tp_safety
+[1.581s] copying tp_safety/estop_mux.py -> /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_safety/build/lib/tp_safety
+[1.581s] copying tp_safety/__init__.py -> /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_safety/build/lib/tp_safety
+[1.582s] running install
+[1.582s] running install_lib
+[1.583s] creating /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_safety/lib/python3.10/site-packages/tp_safety
+[1.583s] copying /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_safety/build/lib/tp_safety/estop_mux.py -> /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_safety/lib/python3.10/site-packages/tp_safety
+[1.583s] copying /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_safety/build/lib/tp_safety/__init__.py -> /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_safety/lib/python3.10/site-packages/tp_safety
+[1.584s] byte-compiling /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_safety/lib/python3.10/site-packages/tp_safety/estop_mux.py to estop_mux.cpython-310.pyc
+[1.585s] byte-compiling /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_safety/lib/python3.10/site-packages/tp_safety/__init__.py to __init__.cpython-310.pyc
+[1.585s] running install_data
+[1.585s] copying resource/tp_safety -> /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_safety/share/ament_index/resource_index/packages
+[1.585s] copying package.xml -> /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_safety/share/tp_safety
+[1.585s] running install_egg_info
+[1.587s] Copying ../build/tp_safety/tp_safety.egg-info to /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_safety/lib/python3.10/site-packages/tp_safety-0.0.0-py3.10.egg-info
+[1.588s] running install_scripts
+[1.611s] Installing estop_mux script to /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_safety/lib/tp_safety
+[1.611s] writing list of installed files to '/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_safety/install.log'
+[1.645s] Invoked command in '/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/tp_safety' returned '0': PYTHONPATH=/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_safety/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/install/tp_safety/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/tp_safety build --build-base /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_safety/build install --record /home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_safety/install.log --single-version-externally-managed install_data --force

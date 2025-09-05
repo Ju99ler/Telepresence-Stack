@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-d05e8944b659eaaa7c81.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "tp_cmd_sub",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "cmd_sub::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cmd_sub-b0bdeffb11ccd4feb5fb.json",
+					"name" : "cmd_sub",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tp_cmd_sub_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tp_cmd_sub_uninstall-3dfd79929cc682de6f7e.json",
+					"name" : "tp_cmd_sub_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-4e95009106cde61f7036.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/build/tp_cmd_sub",
+		"source" : "/home/yiyo/Telepresence/Telepresence-Stack/ros2/tp_ws/tp_cmd_sub"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
